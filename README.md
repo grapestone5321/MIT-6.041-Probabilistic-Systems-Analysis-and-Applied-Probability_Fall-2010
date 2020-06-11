@@ -1,15 +1,37 @@
 # MIT-6.041-Probabilistic-Systems-Analysis-and-Applied-Probability_Fall-2010
 MIT-6.041 Probabilistic Systems Analysis and Applied Probability_Fall 2010
 
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/
+
 
 https://www.youtube.com/playlist?list=PLUl4u3cNGP61MdtwGTqZA0MreSaDybji8
 
 
+nstructor(s):
+Prof. John Tsitsiklis
+
+MIT Course Number:
+6.041 / 6.431
+
+As Taught In:
+Fall 2010
+
+
+## Course Description
+Welcome to 6.041/6.431, a subject on the modeling and analysis of random phenomena and processes, including the basics of statistical inference. 
+
+Nowadays, there is broad consensus that the ability to think probabilistically is a fundamental component of scientific literacy. For example:
+
+- The concept of statistical significance (to be touched upon at the end of this course) is considered by the Financial Times as one of "The Ten Things Everyone Should Know About Science".
+
+- A recent Scientific American article argues that statistical literacy is crucial in making health-related decisions.
+
+- Finally, an article in the New York Times identifies statistical data analysis as an upcoming profession, valuable everywhere, from Google and Netflix to the Office of Management and Budget.
+
+The aim of this class is to introduce the relevant models, skills, and tools, by combining mathematics with conceptual understanding and intuition.
 
 
 
-
-MIT 6.041 Probabilistic Systems Analysis and Applied Probability, Fall 2010
 
 View the complete course: http://ocw.mit.edu/6-041F10
 
@@ -17,55 +39,61 @@ View the complete course: http://ocw.mit.edu/6-041F10
 
 
 
-## 1. Probability Models and Axioms
+## Lecture 1: Probability Models and Axioms
 
-## 2.
+https://www.youtube.com/watch?v=j9WZyLZCBzs&list=PLUl4u3cNGP61MdtwGTqZA0MreSaDybji8&index=2&t=116s
 
-## 3.
+## Lecture 2: Conditioning and Bayes' Rule
 
-## 4.
+https://www.youtube.com/watch?v=TluTv5V0RmE&list=PLUl4u3cNGP61MdtwGTqZA0MreSaDybji8&index=2
 
-## 5.
+## Lecture 3: Independence
 
-## 6.
+https://www.youtube.com/watch?v=19Ql_Q3l0GA&list=PLUl4u3cNGP61MdtwGTqZA0MreSaDybji8&index=3
 
-## 7.
+## Lecture 4: Counting
 
-## 8.
+## Lecture 5: Discrete Random Variables; Probability Mass Functions; Expectations
 
-## 9.
+## Lecture 6: Discrete Random Variable Examples; Joint PMFs
 
-## 10.
+## Lecture 7: Multiple Discrete Random Variables: Expectations, Conditioning, Independence
 
-## 11.
+## Lecture 8: Continuous Random Variables
 
-## 12.
+## Lecture 9: Multiple Continuous Random Variables
 
-## 13.
+## Lecture 10: Continuous Bayes' Rule; Derived Distributions
 
-## 14.
+## Lecture 11: Derived Distributions; Convolution; Covariance and Correlation
 
-## 15.
+## Lecture 12: Iterated Expectations; Sum of a Random Number of Random Variables
 
-## 16.
+## Lecture 13: Bernoulli Process
 
-## 17.
+## Lecture 14: Poisson Process I
 
-## 18.
+## Lecture 15: Poisson Process II
 
-## 19.
+## Lecture 16: Markov Chains I
 
-## 20.
+## Lecture 17: Markov Chains II
 
-## 21.
+## Lecture 18: Markov Chains III
 
-## 22.
+## Lecture 19: Weak Law of Large Numbers
 
-## 23.
+## Lecture 20: Central Limit Theorem
 
-## 24.
+## Lecture 21: Bayesian Statistical Inference I
 
-## 25.
+## Lecture 22: Bayesian Statistical Inference II
+
+## Lecture 23: Classical Statistical Inference I
+
+## Lecture 24: Classical Inference II
+
+## Lecture 25: Classical Inference III; Course Overview
 
 
 
