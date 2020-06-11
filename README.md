@@ -37,6 +37,10 @@ View the complete course: http://ocw.mit.edu/6-041F10
 
 ### Instructor: John Tsitsiklis
 
+### Reading assignments are from the course textbook:
+
+Bertsekas, Dimitri, and John Tsitsiklis. Introduction to Probability. 2nd ed. Athena Scientific, 2008. ISBN: 978188652923.
+
 
 
 ## Lecture 1: Probability Models and Axioms
